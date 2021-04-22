@@ -13,7 +13,7 @@ export default class Animationcom extends React.Component {
           ref={animation => {
             this.animation = animation;
           }}
-          source={require('./animation1.json')}
+          source={require('./animation4.json')}
         />
       );
     }
